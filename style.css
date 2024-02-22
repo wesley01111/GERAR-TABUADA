@@ -1,0 +1,51 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 38%, rgba(9,121,108,1) 66%);
+}
+
+section{
+    color: rgb(255, 255, 255);
+    background-color: rgba(158, 152, 152, 0.514);
+    width: 250px;
+    height: 280px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px rgba(19, 10, 10, 0.5); 
+    margin: auto;
+}
+
+#tabuada{
+    margin-left: 30px;
+    padding-left: 5PX;
+    background-color: rgb(1, 82, 82);
+    border-radius: 10px;
+}
+#res{
+    margin-left: 65px;
+    width: 120px;
+    padding-left: 5PX;
+    background-color: rgb(1, 82, 82);
+    border-radius: 10px;
+}
+#but{
+    color: aliceblue;
+    padding-left: 5PX;
+    background-color: rgb(1, 82, 82);
+    border-radius: 20px; 
+    
+}
+
+header{
+    font-size: 20pt;
+    display: flex;
+    justify-content: center;    
+}
+
+flooter{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 15pt;
+    
+}
